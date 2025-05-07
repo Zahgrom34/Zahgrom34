@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zahiriddin (aka Zahcoder34)
 
-🚀 Developer of [Ascender Framework](https://github.com/ascender-team/ascenderframework) and [AgentHub AI Nexus] — building next-gen AI infra and making LLMs actually *do stuff*.
+🚀 Developer of [Ascender Framework](https://github.com/ascenderteam/ascenderframework) and [AgentHub AI Nexus] — building next-gen AI infra and making LLMs actually *do stuff*.
 
 💡 I build tools for:
 - ⚙️ AI automation (insurance, customer ops, telephony, legal assistance and etc)
