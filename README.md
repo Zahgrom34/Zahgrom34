@@ -28,3 +28,4 @@
 ---
 📫 Wanna collab, challenge my stack or share your knowledge? Hit me up on [GitHub Discussions](https://github.com/Zahgrom34) or Discord - @zahcoder34.
 
+**P.S.** I’m also interested in **C# and game development** — from Unity scripting to building narrative-rich games. If you're into AI x gamedev fusion, we're already friends 👾
